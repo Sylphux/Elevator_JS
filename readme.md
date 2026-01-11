@@ -4,6 +4,8 @@ This repo contains a working html / css / js page that allows you to play with a
 
 The elevator can be called at multiple levels and it will stop depending on if it has to or not.
 
+Access the page here : https://sylphux.github.io/Elevator_JS/ 
+
 ## Instructions
 
 The exercice was given to me in this form : 
